@@ -12,7 +12,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "shop.ianrobinson.coffee/*",
+			"pattern": "shop.ianrobinson.coffee",
 			"custom_domain": true
 		}
 	]
